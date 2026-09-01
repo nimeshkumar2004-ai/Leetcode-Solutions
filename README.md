@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Matrix
 |  |
 | ------- |
