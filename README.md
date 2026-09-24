@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [3904-smallest-stable-index-ii](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Bit Manipulation
 |  |
 | ------- |
