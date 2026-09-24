@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0060-permutation-sequence) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
