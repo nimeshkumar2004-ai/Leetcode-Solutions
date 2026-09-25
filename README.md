@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1929-concatenation-of-array](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3904-smallest-stable-index-ii](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1929-concatenation-of-array](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
