@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3904-smallest-stable-index-ii](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Newton's Method
 |  |
 | ------- |
