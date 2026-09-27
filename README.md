@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Bit Manipulation
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
