@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3904-smallest-stable-index-ii](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Combinatorics
 |  |
 | ------- |
@@ -128,4 +131,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
