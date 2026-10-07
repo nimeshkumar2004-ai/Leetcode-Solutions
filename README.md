@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0412-fizz-buzz](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -156,9 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
