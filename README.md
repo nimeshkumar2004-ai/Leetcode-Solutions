@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
