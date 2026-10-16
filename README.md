@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0031-next-permutation) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
