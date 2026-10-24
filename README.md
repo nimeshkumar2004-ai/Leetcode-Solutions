@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [2409-count-days-spent-together](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/nimeshkumar2004-ai/Leetcode-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
